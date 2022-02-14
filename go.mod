@@ -9,7 +9,7 @@ require (
 	github.com/Azure/go-autorest/autorest/to v0.4.0 // indirect
 	github.com/Azure/go-autorest/autorest/validation v0.3.1 // indirect
 	github.com/alecthomas/units v0.0.0-20210927113745-59d0afb8317a
-	github.com/aws/aws-sdk-go v1.42.10
+	github.com/aws/aws-sdk-go v1.42.52
 	github.com/cespare/xxhash/v2 v2.1.2
 	github.com/containerd/containerd v1.5.7 // indirect
 	github.com/dennwc/varint v1.0.0
@@ -59,7 +59,7 @@ require (
 	github.com/uber/jaeger-lib v2.4.1+incompatible
 	go.uber.org/atomic v1.9.0
 	go.uber.org/goleak v1.1.12
-	golang.org/x/net v0.0.0-20211020060615-d418f374d309
+	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
 	golang.org/x/oauth2 v0.0.0-20211005180243-6b3c2da341f1
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20211025201205-69cdffdb9359
