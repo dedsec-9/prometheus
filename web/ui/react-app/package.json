@@ -8,7 +8,7 @@
     "@codemirror/language": "^6.2.1",
     "@codemirror/lint": "^6.0.0",
     "@codemirror/search": "^6.2.0",
-    "@codemirror/state": "^6.1.1",
+    "@codemirror/state": "^6.2.0",
     "@codemirror/view": "^6.2.4",
     "@forevolve/bootstrap-dark": "^1.1.0",
     "@fortawesome/fontawesome-svg-core": "6.1.1",
